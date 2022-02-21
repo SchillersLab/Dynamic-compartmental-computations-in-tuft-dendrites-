@@ -1,0 +1,3 @@
+function PublishPDFMainAnalysis5(globalParameters)
+    mainRunnerNeuronTreeAndActivityAnalysis_Centrality(globalParameters);
+end
